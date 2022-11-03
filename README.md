@@ -1,3 +1,5 @@
+<image src="화면 캡처 2021-08-31 181530.png" width=200 height=200></image>
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
 띄어쓰면 안됨 띄어쓰기: %20
 
