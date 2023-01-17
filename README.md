@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=a4e468)
 
 
 🐯 Sun Ju Yeon 🐯<br>
