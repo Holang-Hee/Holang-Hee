@@ -1,5 +1,5 @@
 🐯Sun Ju Yeon🐯
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=black"/>
+<img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/>
 <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=GitHub&logoColor=black"/>
 
 
