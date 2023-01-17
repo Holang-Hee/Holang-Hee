@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=slice)
+
+
 🐯 Sun Ju Yeon 🐯<br>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/>
