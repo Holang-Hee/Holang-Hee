@@ -1,5 +1,5 @@
-<image src="화면 캡처 2021-08-31 181530.png" width=200 height=200></image>
 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
 띄어쓰면 안됨 띄어쓰기: %20
 
