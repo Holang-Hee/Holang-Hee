@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=a4e468)
-
 
 🐯 Sun Ju Yeon 🐯<br>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
@@ -14,28 +12,7 @@
 
 
 
-띄어쓰면 안됨 띄어쓰기: %20
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Holang-Hee)](https://github.com/Holang-Hee)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Holang-Hee)](https://github.com/Holang-Hee/github-readme-stats)
-
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
----
-**bold**  <br>
-*italic*  <br>
-~~strikethrough~~ <br>
-* 1번
-* 2번
-* 3번
-[네이버] (https://www.naver.com)
-```
-print("파이썬 출력")
-```
-😂
-:rage:
-
